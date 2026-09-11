@@ -1,0 +1,818 @@
+School,GradeSpan,MeasureID,Measure,Domain,Applicability,Reason
+Aberdeen Academy,PK-8,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Aberdeen Academy,PK-8,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Aberdeen Academy,PK-8,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Aberdeen Academy,PK-8,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Aberdeen Academy,PK-8,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Aberdeen Academy,PK-8,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Aberdeen Academy,PK-8,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Aberdeen Academy,PK-8,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Aberdeen Academy,PK-8,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Aberdeen Academy,PK-8,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Aberdeen Academy,PK-8,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Aberdeen Academy,PK-8,2.4,Grade 3 Reading,Academic Achievement,Not applicable,M-STEP grades 3–7
+Aberdeen Academy,PK-8,2.5,Grade 8 Math,Academic Achievement,Not applicable,M-STEP grades 3–7
+Aberdeen Academy,PK-8,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Aberdeen Academy,PK-8,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Aberdeen Academy,PK-8,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Aberdeen Academy,PK-8,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Aberdeen Academy,PK-8,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Aberdeen Academy,PK-8,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Blandford School,6,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Blandford School,6,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Blandford School,6,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Blandford School,6,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Blandford School,6,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Blandford School,6,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Blandford School,6,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Blandford School,6,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Blandford School,6,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Blandford School,6,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Blandford School,6,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Blandford School,6,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Blandford School,6,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Blandford School,6,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Blandford School,6,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Blandford School,6,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Blandford School,6,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Blandford School,6,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Blandford School,6,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Brookside,PK-5,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Brookside,PK-5,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Brookside,PK-5,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Brookside,PK-5,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Brookside,PK-5,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Brookside,PK-5,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Brookside,PK-5,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Brookside,PK-5,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Brookside,PK-5,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Brookside,PK-5,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Brookside,PK-5,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Brookside,PK-5,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Brookside,PK-5,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Brookside,PK-5,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Brookside,PK-5,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Brookside,PK-5,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Brookside,PK-5,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Brookside,PK-5,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Brookside,PK-5,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Buchanan,PK-5,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Buchanan,PK-5,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Buchanan,PK-5,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Buchanan,PK-5,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Buchanan,PK-5,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Buchanan,PK-5,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Buchanan,PK-5,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Buchanan,PK-5,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Buchanan,PK-5,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Buchanan,PK-5,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Buchanan,PK-5,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Buchanan,PK-5,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Buchanan,PK-5,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Buchanan,PK-5,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Buchanan,PK-5,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Buchanan,PK-5,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Buchanan,PK-5,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Buchanan,PK-5,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Buchanan,PK-5,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Burton Elementary,PK-5,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Burton Elementary,PK-5,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Burton Elementary,PK-5,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Burton Elementary,PK-5,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Burton Elementary,PK-5,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Burton Elementary,PK-5,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Burton Elementary,PK-5,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Burton Elementary,PK-5,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Burton Elementary,PK-5,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Burton Elementary,PK-5,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Burton Elementary,PK-5,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Burton Elementary,PK-5,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Burton Elementary,PK-5,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Burton Elementary,PK-5,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Burton Elementary,PK-5,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Burton Elementary,PK-5,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Burton Elementary,PK-5,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Burton Elementary,PK-5,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Burton Elementary,PK-5,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Burton Middle,6-8,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Burton Middle,6-8,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Burton Middle,6-8,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Burton Middle,6-8,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Burton Middle,6-8,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Burton Middle,6-8,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Burton Middle,6-8,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Burton Middle,6-8,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Burton Middle,6-8,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Burton Middle,6-8,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Burton Middle,6-8,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Burton Middle,6-8,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Burton Middle,6-8,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Burton Middle,6-8,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Burton Middle,6-8,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Burton Middle,6-8,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Burton Middle,6-8,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Burton Middle,6-8,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Burton Middle,6-8,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+CA Frost Environmental Elementary,K-5,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+CA Frost Environmental Elementary,K-5,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+CA Frost Environmental Elementary,K-5,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+CA Frost Environmental Elementary,K-5,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+CA Frost Environmental Elementary,K-5,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+CA Frost Environmental Elementary,K-5,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+CA Frost Environmental Elementary,K-5,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+CA Frost Environmental Elementary,K-5,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+CA Frost Environmental Elementary,K-5,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+CA Frost Environmental Elementary,K-5,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+CA Frost Environmental Elementary,K-5,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+CA Frost Environmental Elementary,K-5,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+CA Frost Environmental Elementary,K-5,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+CA Frost Environmental Elementary,K-5,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+CA Frost Environmental Elementary,K-5,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+CA Frost Environmental Elementary,K-5,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+CA Frost Environmental Elementary,K-5,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+CA Frost Environmental Elementary,K-5,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+CA Frost Environmental Elementary,K-5,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+CA Frost Environmental Middle/High,6-12,1.2a,Graduation Rate,Graduation & Advancement,Applicable,High-school graduation outcome
+CA Frost Environmental Middle/High,6-12,1.2b,On-Track Credits,Graduation & Advancement,Applicable,High-school postsecondary readiness
+CA Frost Environmental Middle/High,6-12,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+CA Frost Environmental Middle/High,6-12,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+CA Frost Environmental Middle/High,6-12,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+CA Frost Environmental Middle/High,6-12,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+CA Frost Environmental Middle/High,6-12,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+CA Frost Environmental Middle/High,6-12,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+CA Frost Environmental Middle/High,6-12,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+CA Frost Environmental Middle/High,6-12,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+CA Frost Environmental Middle/High,6-12,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+CA Frost Environmental Middle/High,6-12,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+CA Frost Environmental Middle/High,6-12,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+CA Frost Environmental Middle/High,6-12,2.6,SAT Benchmark,Academic Achievement,Applicable,Grade 11 SAT
+CA Frost Environmental Middle/High,6-12,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+CA Frost Environmental Middle/High,6-12,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+CA Frost Environmental Middle/High,6-12,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+CA Frost Environmental Middle/High,6-12,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+CA Frost Environmental Middle/High,6-12,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Campus Elementary,PK-5,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Campus Elementary,PK-5,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Campus Elementary,PK-5,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Campus Elementary,PK-5,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Campus Elementary,PK-5,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Campus Elementary,PK-5,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Campus Elementary,PK-5,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Campus Elementary,PK-5,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Campus Elementary,PK-5,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Campus Elementary,PK-5,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Campus Elementary,PK-5,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Campus Elementary,PK-5,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Campus Elementary,PK-5,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Campus Elementary,PK-5,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Campus Elementary,PK-5,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Campus Elementary,PK-5,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Campus Elementary,PK-5,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Campus Elementary,PK-5,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Campus Elementary,PK-5,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Center for Economicology,6,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Center for Economicology,6,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Center for Economicology,6,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Center for Economicology,6,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Center for Economicology,6,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Center for Economicology,6,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Center for Economicology,6,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Center for Economicology,6,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Center for Economicology,6,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Center for Economicology,6,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Center for Economicology,6,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Center for Economicology,6,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Center for Economicology,6,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Center for Economicology,6,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Center for Economicology,6,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Center for Economicology,6,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Center for Economicology,6,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Center for Economicology,6,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Center for Economicology,6,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Cesar E. Chavez,PK-5,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Cesar E. Chavez,PK-5,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Cesar E. Chavez,PK-5,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Cesar E. Chavez,PK-5,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Cesar E. Chavez,PK-5,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Cesar E. Chavez,PK-5,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Cesar E. Chavez,PK-5,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Cesar E. Chavez,PK-5,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Cesar E. Chavez,PK-5,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Cesar E. Chavez,PK-5,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Cesar E. Chavez,PK-5,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Cesar E. Chavez,PK-5,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Cesar E. Chavez,PK-5,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Cesar E. Chavez,PK-5,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Cesar E. Chavez,PK-5,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Cesar E. Chavez,PK-5,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Cesar E. Chavez,PK-5,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Cesar E. Chavez,PK-5,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Cesar E. Chavez,PK-5,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+City Middle/High,7-12,1.2a,Graduation Rate,Graduation & Advancement,Applicable,High-school graduation outcome
+City Middle/High,7-12,1.2b,On-Track Credits,Graduation & Advancement,Applicable,High-school postsecondary readiness
+City Middle/High,7-12,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+City Middle/High,7-12,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+City Middle/High,7-12,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+City Middle/High,7-12,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+City Middle/High,7-12,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+City Middle/High,7-12,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+City Middle/High,7-12,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+City Middle/High,7-12,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+City Middle/High,7-12,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+City Middle/High,7-12,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+City Middle/High,7-12,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+City Middle/High,7-12,2.6,SAT Benchmark,Academic Achievement,Applicable,Grade 11 SAT
+City Middle/High,7-12,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+City Middle/High,7-12,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+City Middle/High,7-12,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+City Middle/High,7-12,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+City Middle/High,7-12,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Coit Creative Arts,PK-5,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Coit Creative Arts,PK-5,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Coit Creative Arts,PK-5,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Coit Creative Arts,PK-5,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Coit Creative Arts,PK-5,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Coit Creative Arts,PK-5,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Coit Creative Arts,PK-5,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Coit Creative Arts,PK-5,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Coit Creative Arts,PK-5,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Coit Creative Arts,PK-5,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Coit Creative Arts,PK-5,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Coit Creative Arts,PK-5,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Coit Creative Arts,PK-5,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Coit Creative Arts,PK-5,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Coit Creative Arts,PK-5,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Coit Creative Arts,PK-5,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Coit Creative Arts,PK-5,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Coit Creative Arts,PK-5,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Coit Creative Arts,PK-5,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Congress,PK-5,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Congress,PK-5,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Congress,PK-5,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Congress,PK-5,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Congress,PK-5,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Congress,PK-5,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Congress,PK-5,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Congress,PK-5,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Congress,PK-5,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Congress,PK-5,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Congress,PK-5,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Congress,PK-5,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Congress,PK-5,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Congress,PK-5,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Congress,PK-5,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Congress,PK-5,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Congress,PK-5,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Congress,PK-5,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Congress,PK-5,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Dickinson,PK-8,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Dickinson,PK-8,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Dickinson,PK-8,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Dickinson,PK-8,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Dickinson,PK-8,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Dickinson,PK-8,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Dickinson,PK-8,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Dickinson,PK-8,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Dickinson,PK-8,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Dickinson,PK-8,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Dickinson,PK-8,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Dickinson,PK-8,2.4,Grade 3 Reading,Academic Achievement,Not applicable,M-STEP grades 3–7
+Dickinson,PK-8,2.5,Grade 8 Math,Academic Achievement,Not applicable,M-STEP grades 3–7
+Dickinson,PK-8,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Dickinson,PK-8,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Dickinson,PK-8,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Dickinson,PK-8,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Dickinson,PK-8,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Dickinson,PK-8,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Gerald R. Ford Academic Center,PK-8,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Gerald R. Ford Academic Center,PK-8,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Gerald R. Ford Academic Center,PK-8,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Gerald R. Ford Academic Center,PK-8,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Gerald R. Ford Academic Center,PK-8,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Gerald R. Ford Academic Center,PK-8,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Gerald R. Ford Academic Center,PK-8,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Gerald R. Ford Academic Center,PK-8,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Gerald R. Ford Academic Center,PK-8,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Gerald R. Ford Academic Center,PK-8,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Gerald R. Ford Academic Center,PK-8,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Gerald R. Ford Academic Center,PK-8,2.4,Grade 3 Reading,Academic Achievement,Not applicable,M-STEP grades 3–7
+Gerald R. Ford Academic Center,PK-8,2.5,Grade 8 Math,Academic Achievement,Not applicable,M-STEP grades 3–7
+Gerald R. Ford Academic Center,PK-8,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Gerald R. Ford Academic Center,PK-8,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Gerald R. Ford Academic Center,PK-8,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Gerald R. Ford Academic Center,PK-8,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Gerald R. Ford Academic Center,PK-8,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Gerald R. Ford Academic Center,PK-8,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Grand Rapids Learning Center,9-12,1.2a,Graduation Rate,Graduation & Advancement,Applicable,High-school graduation outcome
+Grand Rapids Learning Center,9-12,1.2b,On-Track Credits,Graduation & Advancement,Applicable,High-school postsecondary readiness
+Grand Rapids Learning Center,9-12,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Learning Center,9-12,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Learning Center,9-12,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Learning Center,9-12,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Learning Center,9-12,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Learning Center,9-12,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Learning Center,9-12,2.2,NWEA MAP Growth,Academic Achievement,Not applicable,K–8 growth/achievement
+Grand Rapids Learning Center,9-12,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Grand Rapids Learning Center,9-12,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Grand Rapids Learning Center,9-12,2.4,Grade 3 Reading,Academic Achievement,Not applicable,M-STEP grades 3–7
+Grand Rapids Learning Center,9-12,2.5,Grade 8 Math,Academic Achievement,Not applicable,M-STEP grades 3–7
+Grand Rapids Learning Center,9-12,2.6,SAT Benchmark,Academic Achievement,Applicable,Grade 11 SAT
+Grand Rapids Learning Center,9-12,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Grand Rapids Learning Center,9-12,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Grand Rapids Learning Center,9-12,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Grand Rapids Learning Center,9-12,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Grand Rapids Learning Center,9-12,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Grand Rapids Montessori Elementary/Middle,PK-6,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Grand Rapids Montessori Elementary/Middle,PK-6,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Grand Rapids Montessori Elementary/Middle,PK-6,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Montessori Elementary/Middle,PK-6,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Montessori Elementary/Middle,PK-6,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Montessori Elementary/Middle,PK-6,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Montessori Elementary/Middle,PK-6,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Montessori Elementary/Middle,PK-6,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Montessori Elementary/Middle,PK-6,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Grand Rapids Montessori Elementary/Middle,PK-6,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Grand Rapids Montessori Elementary/Middle,PK-6,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Grand Rapids Montessori Elementary/Middle,PK-6,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Grand Rapids Montessori Elementary/Middle,PK-6,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Grand Rapids Montessori Elementary/Middle,PK-6,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Grand Rapids Montessori Elementary/Middle,PK-6,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Grand Rapids Montessori Elementary/Middle,PK-6,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Grand Rapids Montessori Elementary/Middle,PK-6,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Grand Rapids Montessori Elementary/Middle,PK-6,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Grand Rapids Montessori Elementary/Middle,PK-6,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Grand Rapids Montessori Middle/High,7-12,1.2a,Graduation Rate,Graduation & Advancement,Applicable,High-school graduation outcome
+Grand Rapids Montessori Middle/High,7-12,1.2b,On-Track Credits,Graduation & Advancement,Applicable,High-school postsecondary readiness
+Grand Rapids Montessori Middle/High,7-12,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Montessori Middle/High,7-12,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Montessori Middle/High,7-12,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Montessori Middle/High,7-12,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Montessori Middle/High,7-12,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Montessori Middle/High,7-12,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Grand Rapids Montessori Middle/High,7-12,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Grand Rapids Montessori Middle/High,7-12,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Grand Rapids Montessori Middle/High,7-12,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Grand Rapids Montessori Middle/High,7-12,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Grand Rapids Montessori Middle/High,7-12,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Grand Rapids Montessori Middle/High,7-12,2.6,SAT Benchmark,Academic Achievement,Applicable,Grade 11 SAT
+Grand Rapids Montessori Middle/High,7-12,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Grand Rapids Montessori Middle/High,7-12,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Grand Rapids Montessori Middle/High,7-12,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Grand Rapids Montessori Middle/High,7-12,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Grand Rapids Montessori Middle/High,7-12,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Harrison Park,PK-8,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Harrison Park,PK-8,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Harrison Park,PK-8,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Harrison Park,PK-8,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Harrison Park,PK-8,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Harrison Park,PK-8,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Harrison Park,PK-8,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Harrison Park,PK-8,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Harrison Park,PK-8,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Harrison Park,PK-8,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Harrison Park,PK-8,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Harrison Park,PK-8,2.4,Grade 3 Reading,Academic Achievement,Not applicable,M-STEP grades 3–7
+Harrison Park,PK-8,2.5,Grade 8 Math,Academic Achievement,Not applicable,M-STEP grades 3–7
+Harrison Park,PK-8,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Harrison Park,PK-8,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Harrison Park,PK-8,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Harrison Park,PK-8,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Harrison Park,PK-8,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Harrison Park,PK-8,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Innovation Central High,9-12,1.2a,Graduation Rate,Graduation & Advancement,Applicable,High-school graduation outcome
+Innovation Central High,9-12,1.2b,On-Track Credits,Graduation & Advancement,Applicable,High-school postsecondary readiness
+Innovation Central High,9-12,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Innovation Central High,9-12,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Innovation Central High,9-12,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Innovation Central High,9-12,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Innovation Central High,9-12,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Innovation Central High,9-12,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Innovation Central High,9-12,2.2,NWEA MAP Growth,Academic Achievement,Not applicable,K–8 growth/achievement
+Innovation Central High,9-12,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Innovation Central High,9-12,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Innovation Central High,9-12,2.4,Grade 3 Reading,Academic Achievement,Not applicable,M-STEP grades 3–7
+Innovation Central High,9-12,2.5,Grade 8 Math,Academic Achievement,Not applicable,M-STEP grades 3–7
+Innovation Central High,9-12,2.6,SAT Benchmark,Academic Achievement,Applicable,Grade 11 SAT
+Innovation Central High,9-12,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Innovation Central High,9-12,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Innovation Central High,9-12,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Innovation Central High,9-12,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Innovation Central High,9-12,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Innovation Central Middle School,6-8,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Innovation Central Middle School,6-8,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Innovation Central Middle School,6-8,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Innovation Central Middle School,6-8,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Innovation Central Middle School,6-8,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Innovation Central Middle School,6-8,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Innovation Central Middle School,6-8,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Innovation Central Middle School,6-8,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Innovation Central Middle School,6-8,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Innovation Central Middle School,6-8,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Innovation Central Middle School,6-8,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Innovation Central Middle School,6-8,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Innovation Central Middle School,6-8,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Innovation Central Middle School,6-8,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Innovation Central Middle School,6-8,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Innovation Central Middle School,6-8,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Innovation Central Middle School,6-8,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Innovation Central Middle School,6-8,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Innovation Central Middle School,6-8,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+John Ball Park Zoo,6,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+John Ball Park Zoo,6,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+John Ball Park Zoo,6,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+John Ball Park Zoo,6,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+John Ball Park Zoo,6,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+John Ball Park Zoo,6,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+John Ball Park Zoo,6,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+John Ball Park Zoo,6,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+John Ball Park Zoo,6,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+John Ball Park Zoo,6,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+John Ball Park Zoo,6,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+John Ball Park Zoo,6,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+John Ball Park Zoo,6,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+John Ball Park Zoo,6,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+John Ball Park Zoo,6,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+John Ball Park Zoo,6,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+John Ball Park Zoo,6,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+John Ball Park Zoo,6,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+John Ball Park Zoo,6,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ken-o-Sha Park,PK-5,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Ken-o-Sha Park,PK-5,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Ken-o-Sha Park,PK-5,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Ken-o-Sha Park,PK-5,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Ken-o-Sha Park,PK-5,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Ken-o-Sha Park,PK-5,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Ken-o-Sha Park,PK-5,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Ken-o-Sha Park,PK-5,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Ken-o-Sha Park,PK-5,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Ken-o-Sha Park,PK-5,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Ken-o-Sha Park,PK-5,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Ken-o-Sha Park,PK-5,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Ken-o-Sha Park,PK-5,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Ken-o-Sha Park,PK-5,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Ken-o-Sha Park,PK-5,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Ken-o-Sha Park,PK-5,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ken-o-Sha Park,PK-5,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ken-o-Sha Park,PK-5,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ken-o-Sha Park,PK-5,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Kent Hills,PK-5,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Kent Hills,PK-5,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Kent Hills,PK-5,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Kent Hills,PK-5,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Kent Hills,PK-5,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Kent Hills,PK-5,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Kent Hills,PK-5,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Kent Hills,PK-5,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Kent Hills,PK-5,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Kent Hills,PK-5,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Kent Hills,PK-5,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Kent Hills,PK-5,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Kent Hills,PK-5,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Kent Hills,PK-5,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Kent Hills,PK-5,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Kent Hills,PK-5,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Kent Hills,PK-5,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Kent Hills,PK-5,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Kent Hills,PK-5,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Martin Luther King Jr.,PK-8,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Martin Luther King Jr.,PK-8,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Martin Luther King Jr.,PK-8,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Martin Luther King Jr.,PK-8,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Martin Luther King Jr.,PK-8,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Martin Luther King Jr.,PK-8,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Martin Luther King Jr.,PK-8,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Martin Luther King Jr.,PK-8,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Martin Luther King Jr.,PK-8,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Martin Luther King Jr.,PK-8,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Martin Luther King Jr.,PK-8,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Martin Luther King Jr.,PK-8,2.4,Grade 3 Reading,Academic Achievement,Not applicable,M-STEP grades 3–7
+Martin Luther King Jr.,PK-8,2.5,Grade 8 Math,Academic Achievement,Not applicable,M-STEP grades 3–7
+Martin Luther King Jr.,PK-8,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Martin Luther King Jr.,PK-8,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Martin Luther King Jr.,PK-8,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Martin Luther King Jr.,PK-8,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Martin Luther King Jr.,PK-8,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Martin Luther King Jr.,PK-8,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Mulick Park,PK-5,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Mulick Park,PK-5,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Mulick Park,PK-5,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Mulick Park,PK-5,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Mulick Park,PK-5,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Mulick Park,PK-5,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Mulick Park,PK-5,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Mulick Park,PK-5,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Mulick Park,PK-5,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Mulick Park,PK-5,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Mulick Park,PK-5,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Mulick Park,PK-5,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Mulick Park,PK-5,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Mulick Park,PK-5,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Mulick Park,PK-5,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Mulick Park,PK-5,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Mulick Park,PK-5,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Mulick Park,PK-5,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Mulick Park,PK-5,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+North Park Montessori,K-8,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+North Park Montessori,K-8,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+North Park Montessori,K-8,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+North Park Montessori,K-8,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+North Park Montessori,K-8,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+North Park Montessori,K-8,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+North Park Montessori,K-8,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+North Park Montessori,K-8,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+North Park Montessori,K-8,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+North Park Montessori,K-8,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+North Park Montessori,K-8,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+North Park Montessori,K-8,2.4,Grade 3 Reading,Academic Achievement,Not applicable,M-STEP grades 3–7
+North Park Montessori,K-8,2.5,Grade 8 Math,Academic Achievement,Not applicable,M-STEP grades 3–7
+North Park Montessori,K-8,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+North Park Montessori,K-8,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+North Park Montessori,K-8,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+North Park Montessori,K-8,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+North Park Montessori,K-8,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+North Park Montessori,K-8,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ottawa Hills High,9-12,1.2a,Graduation Rate,Graduation & Advancement,Applicable,High-school graduation outcome
+Ottawa Hills High,9-12,1.2b,On-Track Credits,Graduation & Advancement,Applicable,High-school postsecondary readiness
+Ottawa Hills High,9-12,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Ottawa Hills High,9-12,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Ottawa Hills High,9-12,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Ottawa Hills High,9-12,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Ottawa Hills High,9-12,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Ottawa Hills High,9-12,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Ottawa Hills High,9-12,2.2,NWEA MAP Growth,Academic Achievement,Not applicable,K–8 growth/achievement
+Ottawa Hills High,9-12,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Ottawa Hills High,9-12,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Ottawa Hills High,9-12,2.4,Grade 3 Reading,Academic Achievement,Not applicable,M-STEP grades 3–7
+Ottawa Hills High,9-12,2.5,Grade 8 Math,Academic Achievement,Not applicable,M-STEP grades 3–7
+Ottawa Hills High,9-12,2.6,SAT Benchmark,Academic Achievement,Applicable,Grade 11 SAT
+Ottawa Hills High,9-12,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Ottawa Hills High,9-12,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ottawa Hills High,9-12,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ottawa Hills High,9-12,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ottawa Hills High,9-12,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ottawa Hills Middle School,6-8,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Ottawa Hills Middle School,6-8,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Ottawa Hills Middle School,6-8,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Ottawa Hills Middle School,6-8,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Ottawa Hills Middle School,6-8,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Ottawa Hills Middle School,6-8,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Ottawa Hills Middle School,6-8,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Ottawa Hills Middle School,6-8,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Ottawa Hills Middle School,6-8,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Ottawa Hills Middle School,6-8,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Ottawa Hills Middle School,6-8,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Ottawa Hills Middle School,6-8,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Ottawa Hills Middle School,6-8,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Ottawa Hills Middle School,6-8,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Ottawa Hills Middle School,6-8,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Ottawa Hills Middle School,6-8,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ottawa Hills Middle School,6-8,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ottawa Hills Middle School,6-8,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ottawa Hills Middle School,6-8,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Palmer,PK-5,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Palmer,PK-5,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Palmer,PK-5,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Palmer,PK-5,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Palmer,PK-5,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Palmer,PK-5,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Palmer,PK-5,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Palmer,PK-5,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Palmer,PK-5,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Palmer,PK-5,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Palmer,PK-5,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Palmer,PK-5,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Palmer,PK-5,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Palmer,PK-5,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Palmer,PK-5,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Palmer,PK-5,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Palmer,PK-5,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Palmer,PK-5,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Palmer,PK-5,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Public Museum High,9-12,1.2a,Graduation Rate,Graduation & Advancement,Applicable,High-school graduation outcome
+Public Museum High,9-12,1.2b,On-Track Credits,Graduation & Advancement,Applicable,High-school postsecondary readiness
+Public Museum High,9-12,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Public Museum High,9-12,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Public Museum High,9-12,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Public Museum High,9-12,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Public Museum High,9-12,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Public Museum High,9-12,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Public Museum High,9-12,2.2,NWEA MAP Growth,Academic Achievement,Not applicable,K–8 growth/achievement
+Public Museum High,9-12,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Public Museum High,9-12,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Public Museum High,9-12,2.4,Grade 3 Reading,Academic Achievement,Not applicable,M-STEP grades 3–7
+Public Museum High,9-12,2.5,Grade 8 Math,Academic Achievement,Not applicable,M-STEP grades 3–7
+Public Museum High,9-12,2.6,SAT Benchmark,Academic Achievement,Applicable,Grade 11 SAT
+Public Museum High,9-12,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Public Museum High,9-12,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Public Museum High,9-12,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Public Museum High,9-12,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Public Museum High,9-12,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Public Museum Middle,6-8,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Public Museum Middle,6-8,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Public Museum Middle,6-8,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Public Museum Middle,6-8,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Public Museum Middle,6-8,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Public Museum Middle,6-8,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Public Museum Middle,6-8,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Public Museum Middle,6-8,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Public Museum Middle,6-8,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Public Museum Middle,6-8,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Public Museum Middle,6-8,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Public Museum Middle,6-8,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Public Museum Middle,6-8,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Public Museum Middle,6-8,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Public Museum Middle,6-8,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Public Museum Middle,6-8,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Public Museum Middle,6-8,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Public Museum Middle,6-8,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Public Museum Middle,6-8,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ridgemoor Park Montessori,PK-6,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Ridgemoor Park Montessori,PK-6,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Ridgemoor Park Montessori,PK-6,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Ridgemoor Park Montessori,PK-6,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Ridgemoor Park Montessori,PK-6,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Ridgemoor Park Montessori,PK-6,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Ridgemoor Park Montessori,PK-6,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Ridgemoor Park Montessori,PK-6,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Ridgemoor Park Montessori,PK-6,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Ridgemoor Park Montessori,PK-6,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Ridgemoor Park Montessori,PK-6,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Ridgemoor Park Montessori,PK-6,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Ridgemoor Park Montessori,PK-6,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Ridgemoor Park Montessori,PK-6,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Ridgemoor Park Montessori,PK-6,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Ridgemoor Park Montessori,PK-6,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ridgemoor Park Montessori,PK-6,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ridgemoor Park Montessori,PK-6,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Ridgemoor Park Montessori,PK-6,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Shawmut Hills,PK-5,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Shawmut Hills,PK-5,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Shawmut Hills,PK-5,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Shawmut Hills,PK-5,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Shawmut Hills,PK-5,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Shawmut Hills,PK-5,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Shawmut Hills,PK-5,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Shawmut Hills,PK-5,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Shawmut Hills,PK-5,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Shawmut Hills,PK-5,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Shawmut Hills,PK-5,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Shawmut Hills,PK-5,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Shawmut Hills,PK-5,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Shawmut Hills,PK-5,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Shawmut Hills,PK-5,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Shawmut Hills,PK-5,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Shawmut Hills,PK-5,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Shawmut Hills,PK-5,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Shawmut Hills,PK-5,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Sherwood Global Studies,PK-6,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Sherwood Global Studies,PK-6,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Sherwood Global Studies,PK-6,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Sherwood Global Studies,PK-6,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Sherwood Global Studies,PK-6,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Sherwood Global Studies,PK-6,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Sherwood Global Studies,PK-6,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Sherwood Global Studies,PK-6,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Sherwood Global Studies,PK-6,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Sherwood Global Studies,PK-6,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Sherwood Global Studies,PK-6,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Sherwood Global Studies,PK-6,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Sherwood Global Studies,PK-6,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Sherwood Global Studies,PK-6,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Sherwood Global Studies,PK-6,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Sherwood Global Studies,PK-6,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Sherwood Global Studies,PK-6,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Sherwood Global Studies,PK-6,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Sherwood Global Studies,PK-6,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Sibley,PK-5,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Sibley,PK-5,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Sibley,PK-5,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Sibley,PK-5,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Sibley,PK-5,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Sibley,PK-5,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Sibley,PK-5,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Sibley,PK-5,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Sibley,PK-5,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Sibley,PK-5,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Sibley,PK-5,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Sibley,PK-5,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Sibley,PK-5,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Sibley,PK-5,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Sibley,PK-5,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Sibley,PK-5,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Sibley,PK-5,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Sibley,PK-5,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Sibley,PK-5,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Southeast Career Pathways,9-12,1.2a,Graduation Rate,Graduation & Advancement,Applicable,High-school graduation outcome
+Southeast Career Pathways,9-12,1.2b,On-Track Credits,Graduation & Advancement,Applicable,High-school postsecondary readiness
+Southeast Career Pathways,9-12,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Southeast Career Pathways,9-12,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Southeast Career Pathways,9-12,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Southeast Career Pathways,9-12,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Southeast Career Pathways,9-12,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Southeast Career Pathways,9-12,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Southeast Career Pathways,9-12,2.2,NWEA MAP Growth,Academic Achievement,Not applicable,K–8 growth/achievement
+Southeast Career Pathways,9-12,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Southeast Career Pathways,9-12,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Southeast Career Pathways,9-12,2.4,Grade 3 Reading,Academic Achievement,Not applicable,M-STEP grades 3–7
+Southeast Career Pathways,9-12,2.5,Grade 8 Math,Academic Achievement,Not applicable,M-STEP grades 3–7
+Southeast Career Pathways,9-12,2.6,SAT Benchmark,Academic Achievement,Applicable,Grade 11 SAT
+Southeast Career Pathways,9-12,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Southeast Career Pathways,9-12,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Southeast Career Pathways,9-12,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Southeast Career Pathways,9-12,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Southeast Career Pathways,9-12,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Southwest Community Campus Elementary,PK-6,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Southwest Community Campus Elementary,PK-6,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Southwest Community Campus Elementary,PK-6,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Southwest Community Campus Elementary,PK-6,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Southwest Community Campus Elementary,PK-6,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Southwest Community Campus Elementary,PK-6,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Southwest Community Campus Elementary,PK-6,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Southwest Community Campus Elementary,PK-6,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Southwest Community Campus Elementary,PK-6,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Southwest Community Campus Elementary,PK-6,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Southwest Community Campus Elementary,PK-6,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Southwest Community Campus Elementary,PK-6,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Southwest Community Campus Elementary,PK-6,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Southwest Community Campus Elementary,PK-6,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Southwest Community Campus Elementary,PK-6,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Southwest Community Campus Elementary,PK-6,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Southwest Community Campus Elementary,PK-6,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Southwest Community Campus Elementary,PK-6,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Southwest Community Campus Elementary,PK-6,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Southwest Community Campus Middle/High,7-12,1.2a,Graduation Rate,Graduation & Advancement,Applicable,High-school graduation outcome
+Southwest Community Campus Middle/High,7-12,1.2b,On-Track Credits,Graduation & Advancement,Applicable,High-school postsecondary readiness
+Southwest Community Campus Middle/High,7-12,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Southwest Community Campus Middle/High,7-12,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Southwest Community Campus Middle/High,7-12,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Southwest Community Campus Middle/High,7-12,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Southwest Community Campus Middle/High,7-12,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Southwest Community Campus Middle/High,7-12,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Southwest Community Campus Middle/High,7-12,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Southwest Community Campus Middle/High,7-12,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Southwest Community Campus Middle/High,7-12,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Southwest Community Campus Middle/High,7-12,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Southwest Community Campus Middle/High,7-12,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Southwest Community Campus Middle/High,7-12,2.6,SAT Benchmark,Academic Achievement,Applicable,Grade 11 SAT
+Southwest Community Campus Middle/High,7-12,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Southwest Community Campus Middle/High,7-12,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Southwest Community Campus Middle/High,7-12,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Southwest Community Campus Middle/High,7-12,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Southwest Community Campus Middle/High,7-12,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Union High,9-12,1.2a,Graduation Rate,Graduation & Advancement,Applicable,High-school graduation outcome
+Union High,9-12,1.2b,On-Track Credits,Graduation & Advancement,Applicable,High-school postsecondary readiness
+Union High,9-12,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Union High,9-12,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Union High,9-12,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Union High,9-12,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Union High,9-12,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Union High,9-12,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Union High,9-12,2.2,NWEA MAP Growth,Academic Achievement,Not applicable,K–8 growth/achievement
+Union High,9-12,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Union High,9-12,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Union High,9-12,2.4,Grade 3 Reading,Academic Achievement,Not applicable,M-STEP grades 3–7
+Union High,9-12,2.5,Grade 8 Math,Academic Achievement,Not applicable,M-STEP grades 3–7
+Union High,9-12,2.6,SAT Benchmark,Academic Achievement,Applicable,Grade 11 SAT
+Union High,9-12,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Union High,9-12,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Union High,9-12,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Union High,9-12,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Union High,9-12,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+University Preparatory Academy,6-12,1.2a,Graduation Rate,Graduation & Advancement,Applicable,High-school graduation outcome
+University Preparatory Academy,6-12,1.2b,On-Track Credits,Graduation & Advancement,Applicable,High-school postsecondary readiness
+University Preparatory Academy,6-12,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+University Preparatory Academy,6-12,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+University Preparatory Academy,6-12,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+University Preparatory Academy,6-12,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+University Preparatory Academy,6-12,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+University Preparatory Academy,6-12,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+University Preparatory Academy,6-12,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+University Preparatory Academy,6-12,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+University Preparatory Academy,6-12,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+University Preparatory Academy,6-12,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+University Preparatory Academy,6-12,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+University Preparatory Academy,6-12,2.6,SAT Benchmark,Academic Achievement,Applicable,Grade 11 SAT
+University Preparatory Academy,6-12,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+University Preparatory Academy,6-12,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+University Preparatory Academy,6-12,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+University Preparatory Academy,6-12,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+University Preparatory Academy,6-12,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Westwood,6-8,1.2a,Graduation Rate,Graduation & Advancement,Not applicable,High-school graduation outcome
+Westwood,6-8,1.2b,On-Track Credits,Graduation & Advancement,Not applicable,High-school postsecondary readiness
+Westwood,6-8,1.3a,SAT EBRW Mean,Graduation & Advancement,Applicable,District ENDS measure
+Westwood,6-8,1.3b,SAT Math Mean,Graduation & Advancement,Applicable,District ENDS measure
+Westwood,6-8,1.4a,AP Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Westwood,6-8,1.4b,AP Exam Completion,Graduation & Advancement,Applicable,District ENDS measure
+Westwood,6-8,1.4c,AP Exam Passing,Graduation & Advancement,Applicable,District ENDS measure
+Westwood,6-8,1.10,Postsecondary Enrollment,Graduation & Advancement,Applicable,District ENDS measure
+Westwood,6-8,2.2,NWEA MAP Growth,Academic Achievement,Applicable,K–8 growth/achievement
+Westwood,6-8,2.3a,M-STEP ELA,Academic Achievement,Applicable,District ENDS measure
+Westwood,6-8,2.3b,M-STEP Math,Academic Achievement,Applicable,District ENDS measure
+Westwood,6-8,2.4,Grade 3 Reading,Academic Achievement,Applicable,M-STEP grades 3–7
+Westwood,6-8,2.5,Grade 8 Math,Academic Achievement,Applicable,M-STEP grades 3–7
+Westwood,6-8,2.6,SAT Benchmark,Academic Achievement,Not applicable,Grade 11 SAT
+Westwood,6-8,2.7,WIDA Growth,Academic Achievement,Applicable,District ENDS measure
+Westwood,6-8,3.1,Chronic Absence,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Westwood,6-8,3.2,Suspension,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Westwood,6-8,3.3a,Belonging — MI Student Voice,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools
+Westwood,6-8,3.3b,Belonging — Panorama,Personal Responsibility & Belonging,Applicable,Attendance/engagement applies to all schools

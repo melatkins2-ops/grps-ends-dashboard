@@ -1,0 +1,57 @@
+Indicator,Year,Value,Use,Source,Note
+Attendance rate,2023,87.80%,Context only — not ENDS 3.1,"Michigan Department of Education State Board presentation, Oct. 8, 2024",2022-23 GRPS attendance rate.
+Attendance rate,2024,87.93%,Context only — not ENDS 3.1,"Michigan Department of Education State Board presentation, Oct. 8, 2024",2023-24 GRPS attendance rate.
+Chronically absent scholars,2023,"6,125","Context only — count, not ENDS percentage","Michigan Department of Education State Board presentation, Oct. 8, 2024",2022-23 count.
+Chronically absent scholars,2024,"6,094","Context only — count, not ENDS percentage","Michigan Department of Education State Board presentation, Oct. 8, 2024",2023-24 count; decrease of 31 scholars.
+Graduates,2023,683,Context,"GRPS public story, Feb. 2025",Class of 2023 graduate count.
+Graduates,2024,756,Context,"GRPS public story, Feb. 2025",Class of 2024 graduate count.
+Graduates,2025,754,Context,"WGVU citing GRPS, Feb. 23, 2026",Class of 2025 graduate count.
+Four-year graduation rate,2014,49.6%,Historical context,GRPS official graduation reporting,Historical GRPS graduation rate.
+Four-year graduation rate,2015,56.2%,Historical context,GRPS official graduation reporting,Historical GRPS graduation rate.
+Four-year graduation rate,2016,65.5%,Historical context,GRPS official graduation reporting,Historical GRPS graduation rate.
+Four-year graduation rate,2017,66.6%,Historical context,GRPS official graduation reporting,Historical GRPS graduation rate.
+Four-year graduation rate,2018,71.3%,Historical context,GRPS official graduation reporting,Historical GRPS graduation rate.
+Four-year graduation rate,2019,78.2%,Historical context,GRPS official graduation reporting,Historical GRPS graduation rate.
+Four-year graduation rate,2020,80.9%,Historical context,GRPS official graduation reporting,Historical GRPS graduation rate.
+Four-year graduation rate,2021,78.9%,Historical context,GRPS official graduation reporting,Historical GRPS graduation rate.
+Grade 3 Math proficiency,2024,19.1%,ENDS-adjacent context,2024 M-STEP public reporting,Spring 2024 GRPS Grade 3 Math proficiency.
+MI Student Voice — Social-Emotional Learning,2023,52.8%,Survey context,GRPS CNA 2025-26,Favorable rating.
+MI Student Voice — Student Engagement,2023,60.6%,Survey context,GRPS CNA 2025-26,Favorable rating.
+MI Student Voice — Overall Favorable,2023,57.5%,Survey context,GRPS CNA 2025-26,Overall favorable rating.
+MI Student Voice — Social-Emotional Learning,2024,56.0%,Survey context,GRPS CNA 2025-26,Favorable rating.
+MI Student Voice — Student Engagement,2024,61.2%,Survey context,GRPS CNA 2025-26,Favorable rating.
+MI Student Voice — Overall Favorable,2024,60.1%,Survey context,GRPS CNA 2025-26,Overall favorable rating.
+MI Student Voice — Social-Emotional Learning,2025,56.9%,Survey context,GRPS CNA 2025-26,Favorable rating.
+MI Student Voice — Student Engagement,2025,60.1%,Survey context,GRPS CNA 2025-26,Favorable rating.
+MI Student Voice — Overall Favorable,2025,60.5%,Survey context,GRPS CNA 2025-26,Overall favorable rating.
+Panorama Positive Feelings — Grades 3-5,2025,61%,Survey context,GRPS CNA 2025-26,Spring 2025 favorable response.
+Panorama Challenging Feelings — Grades 3-5,2025,55%,Survey context,GRPS CNA 2025-26,Higher score means less frequent challenging feelings.
+Panorama Self-Efficacy — Grades 3-5,2025,42%,Survey context,GRPS CNA 2025-26,Spring 2025 favorable response.
+Panorama Positive Feelings — Grades 6-8,2025,49%,Survey context,GRPS CNA 2025-26,Spring 2025 favorable response.
+Panorama Challenging Feelings — Grades 6-8,2025,51%,Survey context,GRPS CNA 2025-26,Higher score means less frequent challenging feelings.
+Panorama Self-Efficacy — Grades 6-8,2025,37%,Survey context,GRPS CNA 2025-26,Spring 2025 favorable response.
+Panorama Positive Feelings — Grades 9-12,2025,46%,Survey context,GRPS CNA 2025-26,Spring 2025 favorable response.
+Panorama Challenging Feelings — Grades 9-12,2025,53%,Survey context,GRPS CNA 2025-26,Higher score means less frequent challenging feelings.
+Panorama Self-Efficacy — Grades 9-12,2025,38%,Survey context,GRPS CNA 2025-26,Spring 2025 favorable response.
+Suspension incidents,2023,"4,671",ENDS 3.2 supporting context,GRPS CNA 2025-26,Districtwide suspension incidents.
+Unique scholars suspended,2023,"2,218",ENDS 3.2 numerator context,GRPS CNA 2025-26,Districtwide unique scholars suspended.
+Suspension incidents,2024,"4,918",ENDS 3.2 supporting context,GRPS CNA 2025-26,Districtwide suspension incidents.
+Unique scholars suspended,2024,"2,226",ENDS 3.2 numerator context,GRPS CNA 2025-26,Districtwide unique scholars suspended.
+Suspension incidents,2025,"4,062",ENDS 3.2 supporting context,GRPS CNA 2025-26,Districtwide suspension incidents.
+Unique scholars suspended,2025,"1,920",ENDS 3.2 numerator context,GRPS CNA 2025-26,Districtwide unique scholars suspended.
+African American share of suspension incidents,2025,55%,Equity context,GRPS CNA 2025-26,African American scholars were 31% of scholar population.
+Satisfactory attendance,2023,31%,ENDS 3.1 supporting context,GRPS CNA 2025-26,Districtwide attendance category.
+At-risk attendance,2023,27%,ENDS 3.1 supporting context,GRPS CNA 2025-26,Districtwide attendance category.
+Moderate chronic absence,2023,23%,ENDS 3.1 supporting context,GRPS CNA 2025-26,Districtwide attendance category.
+Severe chronic absence,2023,19%,ENDS 3.1 supporting context,GRPS CNA 2025-26,Districtwide attendance category.
+Satisfactory attendance,2024,30%,ENDS 3.1 supporting context,GRPS CNA 2025-26,Districtwide attendance category.
+At-risk attendance,2024,28%,ENDS 3.1 supporting context,GRPS CNA 2025-26,Districtwide attendance category.
+Moderate chronic absence,2024,23%,ENDS 3.1 supporting context,GRPS CNA 2025-26,Districtwide attendance category.
+Severe chronic absence,2024,19%,ENDS 3.1 supporting context,GRPS CNA 2025-26,Districtwide attendance category.
+Satisfactory attendance,2025,31%,ENDS 3.1 supporting context,GRPS CNA 2025-26,Districtwide attendance category.
+At-risk attendance,2025,27%,ENDS 3.1 supporting context,GRPS CNA 2025-26,Districtwide attendance category.
+Moderate chronic absence,2025,24%,ENDS 3.1 supporting context,GRPS CNA 2025-26,Districtwide attendance category.
+Severe chronic absence,2025,18%,ENDS 3.1 supporting context,GRPS CNA 2025-26,Districtwide attendance category.
+PK-12 enrollment denominator (summed grade divisions),2023,"13,787",Calculation context,GRPS CNA 2025-26,"Sum of elementary, middle, and high school totals used for suspension-rate calculation."
+PK-12 enrollment denominator (summed grade divisions),2024,"13,801",Calculation context,GRPS CNA 2025-26,"Sum of elementary, middle, and high school totals used for suspension-rate calculation."
+PK-12 enrollment denominator (summed grade divisions),2025,"13,691",Calculation context,GRPS CNA 2025-26,"Sum of elementary, middle, and high school totals used for suspension-rate calculation."

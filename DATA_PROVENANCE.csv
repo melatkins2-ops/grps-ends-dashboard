@@ -1,0 +1,12 @@
+MeasureID,Year,Value,Dashboard Use,Source Type,Source,Confidence,Caveat
+1.2a,2022,80.53%,KPI,GRPS official / MDE-derived,GRPS historical graduation reporting,High,Four-year rate
+1.2a,2023,82.39%,KPI,GRPS official / MDE-derived,GRPS: On the Rise graduation story,High,Four-year rate
+1.2a,2024,82.53%,KPI,GRPS official / MDE-derived,GRPS graduation story / MI School Data release,High,Four-year rate
+1.2a,2025,83.22%,KPI,GRPS official / MDE-derived,GRPS public release / MDE data,High,Four-year rate
+1.10,2024,57%,KPI with comparability flag,GRPS / local media,WGVU interview with GRPS communications,Moderate-High,Within six months; adopted metric says fall after graduation
+2.3a,2023,24.3%,KPI with denominator-validation flag,GRPS MICIP,GRPS MICIP plan,Moderate-High,Reported as all GRPS Spring 2023 M-STEP ELA participants; confirm combined grades 3–7 denominator
+2.4,2024,22.2%,KPI,Public reporting based on state results,2024 M-STEP reporting,Moderate,Grade 3 reading/ELA proficiency
+3.1 context,2023,87.80% attendance,Context,MDE,State Board presentation,High,Not chronic-absence percentage
+3.1 context,2024,87.93% attendance,Context,MDE,State Board presentation,High,Not chronic-absence percentage
+3.1 context,2023,"6,125 chronic absent",Context,MDE,State Board presentation,High,"Count, not percentage"
+3.1 context,2024,"6,094 chronic absent",Context,MDE,State Board presentation,High,"Count, not percentage"

@@ -1,0 +1,95 @@
+MeasureID,Year,Value,School,Subgroup,Comparison,Note
+1.2a,2022,80.53%,,,,"GRPS four-year graduation rate, Class of 2022."
+1.2a,2023,82.39%,,,,"GRPS four-year graduation rate, Class of 2023."
+1.2a,2024,82.53%,,,,"GRPS four-year graduation rate, Class of 2024."
+1.2a,2025,83.22%,,,,"GRPS four-year graduation rate, Class of 2025."
+1.10,2024,57%,,,,"Percent of GRPS graduates enrolled in college within six months of graduation; public district statement reported Feb. 2025. Note: adopted ENDS wording is fall after graduation, so this is displayed with a comparability flag."
+2.3a,2023,24.3%,,,,GRPS MICIP reported 24.3% of GRPS scholars participating in Spring 2023 M-STEP were proficient in ELA. Confirm exact grades 3–7 denominator before final Board publication.
+2.4,2024,22.2%,,,,Publicly reported Grade 3 reading/ELA proficiency for GRPS in Spring 2024.
+2.2,2025,R 44.5 / M 43.8,,,,"GRPS CNA 2025-26: Grades K-8 combined NWEA MAP mean Conditional Growth Percentile, Fall 2024 to Spring 2025; Reading 44.5, Math 43.8."
+3.1,2023,42%,,,,"GRPS CNA 2025-26: districtwide chronic absenteeism (moderate + severe), 2022-23."
+3.1,2024,42%,,,,"GRPS CNA 2025-26: districtwide chronic absenteeism (moderate + severe), 2023-24."
+3.1,2025,42%,,,,"GRPS CNA 2025-26: districtwide chronic absenteeism (moderate + severe), 2024-25."
+3.2,2023,16.1%,,,,"Derived from GRPS CNA: 2,218 unique scholars suspended divided by 13,787 PK-12 enrollment summed from grade-division tables. Treat as calculated dashboard value pending official district rate validation."
+3.2,2024,16.1%,,,,"Derived from GRPS CNA: 2,226 unique scholars suspended divided by 13,801 PK-12 enrollment summed from grade-division tables. Treat as calculated dashboard value pending official district rate validation."
+3.2,2025,14.0%,,,,"Derived from GRPS CNA: 1,920 unique scholars suspended divided by 13,691 PK-12 enrollment summed from grade-division tables. Treat as calculated dashboard value pending official district rate validation."
+3.3a,2023,59.1%,,,,"GRPS CNA MI Student Voice Survey: favorable Belonging rating, 2022-23."
+3.3a,2024,63.1%,,,,"GRPS CNA MI Student Voice Survey: favorable Belonging rating, 2023-24."
+3.3a,2025,64.6%,,,,"GRPS CNA MI Student Voice Survey: favorable Belonging rating, 2024-25."
+3.3b,2025,55%,,Grades 3-5,,GRPS CNA Panorama Survey Spring 2025: Sense of Belonging favorable responses.
+3.3b,2025,45%,,Grades 6-8,,GRPS CNA Panorama Survey Spring 2025: Sense of Belonging favorable responses.
+3.3b,2025,41%,,Grades 9-12,,GRPS CNA Panorama Survey Spring 2025: Sense of Belonging favorable responses.
+2.6,2023,21%,,,,"GRPS CNA 2025-26: Percent of scholars with SAT composite score meeting benchmark, 2023."
+2.6,2024,17%,,,,"GRPS CNA 2025-26: Percent of scholars with SAT composite score meeting benchmark, 2024."
+2.6,2025,23%,,,,"GRPS CNA 2025-26: Percent of scholars with SAT composite score meeting benchmark, 2025."
+1.2a,2022,75%,,Male,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2022,86%,,Female,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2022,81%,,African American,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2022,60%,,American Indian,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2022,95%,,Asian,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2022,82%,,Hispanic,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2022,63%,,Two or More,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2022,83%,,White,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2022,80%,,FRL Eligible,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2022,76%,,English Learner,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2022,54%,,Special Education,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2023,79%,,Male,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2023,86%,,Female,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2023,81%,,African American,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2023,95%,,American Indian,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2023,95%,,Asian,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2023,85%,,Hispanic,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2023,62%,,Two or More,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2023,82%,,White,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2023,82%,,FRL Eligible,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2023,85%,,English Learner,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2023,47%,,Special Education,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2024,76%,,Male,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2024,90%,,Female,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2024,81%,,African American,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2024,50%,,American Indian,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2024,95%,,Asian,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2024,83%,,Hispanic,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2024,78%,,Two or More,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2024,86%,,White,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2024,82%,,FRL Eligible,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2024,82%,,English Learner,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+1.2a,2024,45%,,Special Education,,GRPS CNA subgroup four-year graduation rate; rounded to whole percentage points.
+2.6,2023,21%,,Male,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2023,20%,,Female,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2023,8%,,African American,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2023,83%,,Asian,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2023,17%,,Hispanic,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2023,17%,,Two or More,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2023,53%,,White,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2023,14%,,FRL Eligible,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2023,3%,,English Learner,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2023,14%,,Special Education,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2024,15%,,Male,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2024,18%,,Female,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2024,7%,,African American,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2024,54%,,Asian,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2024,9%,,Hispanic,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2024,10%,,Two or More,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2024,41%,,White,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2024,10%,,FRL Eligible,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2024,2%,,English Learner,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2024,6%,,Special Education,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2025,22%,,Male,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2025,24%,,Female,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2025,6%,,African American,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2025,56%,,Asian,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2025,11%,,Hispanic,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2025,28%,,Two or More,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2025,53%,,White,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2025,13%,,FRL Eligible,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2025,3%,,English Learner,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.6,2025,6%,,Special Education,,GRPS CNA: percent of Grade 11 scholars meeting SAT composite benchmark. Small-n suppressed categories are omitted.
+2.2,2025,R 45.1 / M 45.1,,Male,,GRPS CNA 2025-26: K-8 mean Conditional Growth Percentile by subgroup; Reading / Math shown separately.
+2.2,2025,R 44.0 / M 42.3,,Female,,GRPS CNA 2025-26: K-8 mean Conditional Growth Percentile by subgroup; Reading / Math shown separately.
+2.2,2025,R 42.1 / M 40.3,,African American,,GRPS CNA 2025-26: K-8 mean Conditional Growth Percentile by subgroup; Reading / Math shown separately.
+2.2,2025,R 51.1 / M 50.6,,American Indian,,GRPS CNA 2025-26: K-8 mean Conditional Growth Percentile by subgroup; Reading / Math shown separately.
+2.2,2025,R 52.4 / M 44.6,,Asian,,GRPS CNA 2025-26: K-8 mean Conditional Growth Percentile by subgroup; Reading / Math shown separately.
+2.2,2025,R 42.7 / M 44.6,,Hispanic,,GRPS CNA 2025-26: K-8 mean Conditional Growth Percentile by subgroup; Reading / Math shown separately.
+2.2,2025,R 44.5 / M 41.2,,Two or More,,GRPS CNA 2025-26: K-8 mean Conditional Growth Percentile by subgroup; Reading / Math shown separately.
+2.2,2025,R 50.3 / M 47.2,,White,,GRPS CNA 2025-26: K-8 mean Conditional Growth Percentile by subgroup; Reading / Math shown separately.

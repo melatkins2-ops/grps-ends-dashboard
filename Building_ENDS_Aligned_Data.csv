@@ -1,0 +1,102 @@
+School,MeasureID,Metric,Value,Period,Type,ValidationStatus,Source,Note
+Public Museum High,3.1,Chronic Absence,30%,2025-26 CNA,ENDS-aligned evidence,Validated — direct source,Museum High CNA Workbook,Directly stated as 30% moderate/severe chronic absence.
+Innovation Central High,3.1,Chronic Absence Change,↓ 12%,2025-26 current,Context — no exact rate supplied,Validated — direct source,Innovation Central CNA Workbook,Directly stated as a 12% decrease so far this school year; not an exact chronic-absence rate.
+Aberdeen Academy,3.1,Chronically Absent Scholars,37,2025-26 CNA,"Context — count, not rate",Validated — direct source,Aberdeen CNA Workbook,"Directly stated as 37 scholars chronic; count only, not rate."
+Southwest Community Campus Middle/High,2.2,NWEA Reading CGP — Grades 7-8,52.8,2024-25,ENDS-aligned grade-band evidence,Validated — direct source,SWMH-AB CNA Workbook,Directly stated building average CGP 52.8.
+Southwest Community Campus Middle/High,2.2,NWEA Reading CGP — Grades 9-10,54.7,2024-25,Context — high school grade band,Validated — direct source,SWMH-AB CNA Workbook,Directly stated building average CGP 54.7.
+Southwest Community Campus Middle/High,1.2a,Graduation,100%,CNA strength statement,Context — year not specified,Validated — source-stated context,SWMH-AB CNA Workbook,Source states 100% graduation rate but does not specify the cohort year; do not treat as a formal ENDS KPI.
+Grand Rapids Montessori Middle/High,3.1,Chronic Absence,53%,2024-25,ENDS-aligned evidence,Validated — calculated from source components,GRM Middle High CNA Workbook,21% severe + 32% moderate = 53%; calculation is transparent.
+Grand Rapids Montessori Middle/High,3.2,Suspension Change,+1.1%,vs. 2023-24,Context — change only,Validated — direct source,GRM Middle High CNA Workbook,Directly stated as up 1.1%; exact suspension rate is not supplied.
+Grand Rapids Montessori Middle/High,3.1,Severe Chronic Absence,21%,2024-25,Attendance component,Validated — direct source,GRM Middle High CNA Workbook,Directly stated as 21%.
+Grand Rapids Montessori Middle/High,3.1,Moderate Chronic Absence,32%,2024-25,Attendance component,Validated — direct source,GRM Middle High CNA Workbook,Directly stated as 32%.
+Ridgemoor Park Montessori,3.1,Chronic Absence,20%,2025-26 CNA,ENDS-aligned building result,Validated — direct source,Ridgemoor Park Montessori CNA Workbook,Directly stated as moderate + severe chronic absence.
+Ridgemoor Park Montessori,2.4,Grade 3 M-STEP Proficiency,44%,Spring 2025,ENDS-adjacent grade-level result,Validated — direct source,M-STEP Passing by Subgroup Spring 2024 and Spring 2025,Direct school all-student Grade 3 result.
+Ridgemoor Park Montessori,2.4,Grade 3 M-STEP Proficiency,42%,Spring 2024,Historical grade-level result,Validated — direct source,M-STEP Passing by Subgroup Spring 2024 and Spring 2025,Direct school all-student Grade 3 result.
+Ridgemoor Park Montessori,2.4,Grade 3 M-STEP — Female,60%,Spring 2025,Subgroup context,Validated — direct source,M-STEP Passing by Subgroup Spring 2024 and Spring 2025,Direct subgroup result; denominator retained.
+Ridgemoor Park Montessori,2.4,Grade 3 M-STEP — Male,20%,Spring 2025,Subgroup context,Validated — direct source,M-STEP Passing by Subgroup Spring 2024 and Spring 2025,Direct subgroup result; denominator retained.
+Public Museum Middle,3.1,Chronic Absence,32.9%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,54 of 164 scholars chronically absent.
+Public Museum Middle,3.1,Chronic Absence,43.1%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,72 of 167 scholars chronically absent.
+Public Museum High,3.1,Chronic Absence,46.5%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,125 of 269 scholars chronically absent.
+Public Museum High,3.1,Chronic Absence,44.7%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,109 of 244 scholars chronically absent.
+University Preparatory Academy,3.1,Chronic Absence,41.7%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,193 of 463 scholars chronically absent.
+University Preparatory Academy,3.1,Chronic Absence,41.9%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,199 of 475 scholars chronically absent.
+Innovation Central High,3.1,Chronic Absence,72.9%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,296 of 406 scholars chronically absent.
+Innovation Central High,3.1,Chronic Absence,70.9%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,266 of 375 scholars chronically absent.
+Aberdeen Academy,3.1,Chronic Absence,28.4%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,63 of 222 scholars chronically absent.
+Aberdeen Academy,3.1,Chronic Absence,35.5%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,99 of 279 scholars chronically absent.
+Ottawa Hills Middle School,3.1,Chronic Absence,79.4%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,282 of 355 scholars chronically absent.
+Ottawa Hills Middle School,3.1,Chronic Absence,69.4%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,204 of 294 scholars chronically absent.
+Campus Elementary,3.1,Chronic Absence,65.0%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,158 of 243 scholars chronically absent.
+Campus Elementary,3.1,Chronic Absence,62.3%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,162 of 260 scholars chronically absent.
+Ken-o-Sha Park,3.1,Chronic Absence,35.8%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,43 of 120 scholars chronically absent.
+Ken-o-Sha Park,3.1,Chronic Absence,34.6%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,53 of 153 scholars chronically absent.
+Mulick Park,3.1,Chronic Absence,41.4%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,120 of 290 scholars chronically absent.
+Mulick Park,3.1,Chronic Absence,39.0%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,117 of 300 scholars chronically absent.
+Ottawa Hills High,3.1,Chronic Absence,81.6%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,305 of 374 scholars chronically absent.
+Ottawa Hills High,3.1,Chronic Absence,72.7%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,264 of 363 scholars chronically absent.
+Kent Hills,3.1,Chronic Absence,54.5%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,122 of 224 scholars chronically absent.
+Kent Hills,3.1,Chronic Absence,55.3%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,241 of 436 scholars chronically absent.
+Shawmut Hills,3.1,Chronic Absence,40.9%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,114 of 279 scholars chronically absent.
+Shawmut Hills,3.1,Chronic Absence,40.4%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,111 of 275 scholars chronically absent.
+Blandford School,3.1,Chronic Absence,8.3%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,5 of 60 scholars chronically absent.
+Blandford School,3.1,Chronic Absence,3.4%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,2 of 58 scholars chronically absent.
+CA Frost Environmental Elementary,3.1,Chronic Absence,12.8%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,60 of 469 scholars chronically absent.
+CA Frost Environmental Elementary,3.1,Chronic Absence,12.8%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,66 of 514 scholars chronically absent.
+CA Frost Environmental Middle/High,3.1,Chronic Absence,46.1%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,148 of 321 scholars chronically absent.
+CA Frost Environmental Middle/High,3.1,Chronic Absence,50.7%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,151 of 298 scholars chronically absent.
+Center for Economicology,3.1,Chronic Absence,6.8%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,4 of 59 scholars chronically absent.
+Center for Economicology,3.1,Chronic Absence,10.2%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,6 of 59 scholars chronically absent.
+City Middle/High,3.1,Chronic Absence,24.6%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,222 of 901 scholars chronically absent.
+City Middle/High,3.1,Chronic Absence,18.3%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,171 of 934 scholars chronically absent.
+Coit Creative Arts,3.1,Chronic Absence,33.1%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,81 of 245 scholars chronically absent.
+Coit Creative Arts,3.1,Chronic Absence,25.3%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,66 of 261 scholars chronically absent.
+Gerald R. Ford Academic Center,3.1,Chronic Absence,23.7%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,53 of 224 scholars chronically absent.
+Gerald R. Ford Academic Center,3.1,Chronic Absence,25.0%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,56 of 224 scholars chronically absent.
+Grand Rapids Montessori Elementary/Middle,3.1,Chronic Absence,15.0%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,44 of 293 scholars chronically absent.
+Grand Rapids Montessori Elementary/Middle,3.1,Chronic Absence,19.0%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,68 of 358 scholars chronically absent.
+Grand Rapids Montessori Middle/High,3.1,Chronic Absence,44.1%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,78 of 177 scholars chronically absent.
+Grand Rapids Montessori Middle/High,3.1,Chronic Absence,53.1%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,94 of 177 scholars chronically absent.
+John Ball Park Zoo,3.1,Chronic Absence,5.5%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,3 of 55 scholars chronically absent.
+John Ball Park Zoo,3.1,Chronic Absence,16.1%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,9 of 56 scholars chronically absent.
+North Park Montessori,3.1,Chronic Absence,14.7%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,54 of 367 scholars chronically absent.
+North Park Montessori,3.1,Chronic Absence,12.5%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,62 of 496 scholars chronically absent.
+Ridgemoor Park Montessori,3.1,Chronic Absence,22.3%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,31 of 139 scholars chronically absent.
+Ridgemoor Park Montessori,3.1,Chronic Absence,18.8%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,29 of 154 scholars chronically absent.
+Grand Rapids Learning Center,3.1,Chronic Absence,77.8%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,28 of 36 scholars chronically absent.
+Grand Rapids Learning Center,3.1,Chronic Absence,25.9%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,14 of 54 scholars chronically absent.
+Southeast Career Pathways,3.1,Chronic Absence,89.6%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,60 of 67 scholars chronically absent.
+Southeast Career Pathways,3.1,Chronic Absence,97.6%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,80 of 82 scholars chronically absent.
+Brookside,3.1,Chronic Absence,27.5%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,66 of 240 scholars chronically absent.
+Brookside,3.1,Chronic Absence,32.6%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,94 of 288 scholars chronically absent.
+Buchanan,3.1,Chronic Absence,28.3%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,119 of 420 scholars chronically absent.
+Buchanan,3.1,Chronic Absence,26.6%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,118 of 444 scholars chronically absent.
+Burton Elementary,3.1,Chronic Absence,25.2%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,100 of 397 scholars chronically absent.
+Burton Elementary,3.1,Chronic Absence,24.2%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,97 of 400 scholars chronically absent.
+Burton Middle,3.1,Chronic Absence,50.7%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,242 of 477 scholars chronically absent.
+Burton Middle,3.1,Chronic Absence,50.6%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,252 of 498 scholars chronically absent.
+Dickinson,3.1,Chronic Absence,50.6%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,117 of 231 scholars chronically absent.
+Dickinson,3.1,Chronic Absence,39.8%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,109 of 274 scholars chronically absent.
+Cesar E. Chavez,3.1,Chronic Absence,34.2%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,151 of 442 scholars chronically absent.
+Cesar E. Chavez,3.1,Chronic Absence,35.0%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,176 of 503 scholars chronically absent.
+Congress,3.1,Chronic Absence,33.3%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,69 of 207 scholars chronically absent.
+Congress,3.1,Chronic Absence,32.0%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,89 of 278 scholars chronically absent.
+Harrison Park,3.1,Chronic Absence,53.2%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,315 of 592 scholars chronically absent.
+Harrison Park,3.1,Chronic Absence,54.1%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,430 of 795 scholars chronically absent.
+Martin Luther King Jr.,3.1,Chronic Absence,55.1%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,150 of 272 scholars chronically absent.
+Martin Luther King Jr.,3.1,Chronic Absence,49.0%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,164 of 335 scholars chronically absent.
+Innovation Central Middle School,3.1,Chronic Absence,60.8%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,144 of 237 scholars chronically absent.
+Innovation Central Middle School,3.1,Chronic Absence,67.5%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,154 of 228 scholars chronically absent.
+Sibley,3.1,Chronic Absence,38.6%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,98 of 254 scholars chronically absent.
+Sibley,3.1,Chronic Absence,43.4%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,152 of 350 scholars chronically absent.
+Sherwood Global Studies,3.1,Chronic Absence,27.0%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,37 of 137 scholars chronically absent.
+Sherwood Global Studies,3.1,Chronic Absence,22.8%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,34 of 149 scholars chronically absent.
+Southwest Community Campus Elementary,3.1,Chronic Absence,20.1%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,130 of 648 scholars chronically absent.
+Southwest Community Campus Elementary,3.1,Chronic Absence,21.5%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,155 of 721 scholars chronically absent.
+Union High,3.1,Chronic Absence,73.3%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,645 of 880 scholars chronically absent.
+Union High,3.1,Chronic Absence,74.9%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,598 of 798 scholars chronically absent.
+Westwood,3.1,Chronic Absence,68.4%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,141 of 206 scholars chronically absent.
+Westwood,3.1,Chronic Absence,69.6%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,126 of 181 scholars chronically absent.
+Palmer,3.1,Chronic Absence,37.0%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,70 of 189 scholars chronically absent.
+Palmer,3.1,Chronic Absence,39.6%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,97 of 245 scholars chronically absent.
+Southwest Community Campus Middle/High,3.1,Chronic Absence,34.8%,2024,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,129 of 371 scholars chronically absent.
+Southwest Community Campus Middle/High,3.1,Chronic Absence,38.3%,2025,ENDS-aligned building result,Validated — source summary table,24-25 Attendance Comparison.xlsx,144 of 376 scholars chronically absent.
