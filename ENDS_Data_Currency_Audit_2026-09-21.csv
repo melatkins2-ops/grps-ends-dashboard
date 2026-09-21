@@ -1,0 +1,20 @@
+﻿MeasureID,Measure,LatestLoaded,LatestKnownCycle,Status,AuthoritativeSource,RefreshNote
+1.2a,Graduation Rate,Class of 2025,Class of 2025,Current loaded public release,MI School Data / CEPI,No newer cohort value verified in this refresh
+1.2b,On-Track Credits,Not loaded,2025–26 local,GRPS extract required,GRPS SDS,Do not substitute public data
+1.3a,SAT EBRW Mean,2025,Spring 2026,New public release available,MI School Data / College Board,Released with Spring 2026 assessment results; GRPS numeric extraction pending
+1.3b,SAT Math Mean,2025,Spring 2026,New public release available,MI School Data / College Board,Released with Spring 2026 assessment results; GRPS numeric extraction pending
+1.4a,AP Enrollment,Not loaded,2025–26 local,GRPS extract required,GRPS / AP,Local measure
+1.4b,AP Exam Completion,Not loaded,2025–26 local,GRPS extract required,GRPS / AP,Local measure
+1.4c,AP Exam Passing,Not loaded,2025–26 local,GRPS extract required,GRPS / AP,Local measure
+1.10,Postsecondary Enrollment,Existing loaded year,Latest public cycle,Recheck before replacement,MI School Data / NSC,Release cycle lags graduation cohort
+2.2,NWEA MAP Growth,2024–25,2025–26 local,GRPS extract required,GRPS / NWEA,Current dashboard values remain historical until approved local extract is loaded
+2.3a,M-STEP ELA,Spring 2025,Spring 2026,New public release available,MI School Data,Released 9/4/26; adopted grades 3–7 combined denominator must be preserved
+2.3b,M-STEP Math,Spring 2025 context,Spring 2026,New public release available,MI School Data,Released 9/4/26; adopted grades 3–7 combined denominator must be preserved
+2.4,Grade 3 Reading,Spring 2025,Spring 2026,New public release available,MI School Data,Released 9/4/26; GRPS numeric extraction pending
+2.5,Grade 8 Math,Spring 2025 / prior loaded,Spring 2026,New public release available,MI School Data / PSAT 8/9,Released 9/4/26; GRPS numeric extraction pending
+2.6,SAT Benchmark,Spring 2025,Spring 2026,New public release available,MI School Data,Released 9/4/26; GRPS numeric extraction pending
+2.7,WIDA Growth,Prior loaded / definition validation,2025–26,Validate measure before replacement,MI School Data / GRPS,Dashboard definition requires mean SGP; source/report must match exactly
+3.1,Chronic Absence,2024–25,2025–26,New public release available,MI School Data / MSDS,Released 9/17/26; GRPS numeric extraction pending
+3.2,Suspension,2024–25 local context,2025–26 local,GRPS extract required,GRPS / MDE,ENDS requires percent of unique scholars with ≥1 suspension
+3.3a,Belonging — MI Student Voice,2024–25,2025–26 local if administered,GRPS extract required,MI Student Voice / GRPS,Do not infer from another survey
+3.3b,Belonging — Panorama,2024–25 context,2025–26 local if administered,GRPS extract required,Panorama / GRPS,Do not substitute other constructs
