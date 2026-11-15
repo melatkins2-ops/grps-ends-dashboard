@@ -1262,6 +1262,17 @@ function initSchoolLoader(){
 const fileInputEl=document.getElementById("fileInput");
 if(fileInputEl) fileInputEl.onchange=e=>{let f=e.target.files[0];if(!f)return;let r=new FileReader();r.onload=()=>{let rows=parseCSV(r.result),bad=validateRows(rows,false);loadMessage.style.display="block";if(bad.length){loadMessage.innerHTML=`<b>File rejected.</b> Check row(s): ${bad.join(", ")}.`;return}RESULTS=rows;loadMessage.innerHTML=`<b>${rows.length} validated rows loaded.</b> Dashboard views have been refreshed.`;renderCards();renderBoard();renderEquity();renderQuality()};r.readAsText(f)}
 
+function renderTable(){
+  const body=document.getElementById("measureRows"); if(!body)return;
+  const q=((document.getElementById("search")||{}).value||"").trim().toLowerCase();
+  const esc=v=>String(v==null?"":v).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  const dir=d=>d==="higher"?"Higher is better":d==="lower"?"Lower is better":(d||"");
+  const rows=MEASURES.filter(m=>!q||[m.id,m.name,m.domain,m.definition,m.source,m.availability].join(" ").toLowerCase().includes(q));
+  body.innerHTML=rows.length?rows.map(m=>`<tr><td>${esc(m.id)}</td><td><a href="#" class="metric-link" data-mid="${esc(m.id)}">${esc(m.name)}</a></td><td>${esc(m.domain)}</td><td>${esc(m.definition)}</td><td>${esc(m.source)}</td><td>${esc(dir(m.direction))}</td><td>${esc(m.availability)}</td></tr>`).join(""):`<tr><td colspan="7">No measures match "${esc(q)}".</td></tr>`;
+  body.querySelectorAll("[data-mid]").forEach(a=>a.onclick=e=>{e.preventDefault();const m=MEASURES.find(x=>x.id===a.dataset.mid);if(m&&typeof showDetail==="function")showDetail(m);});
+}
+(function(){const s=document.getElementById("search");if(s)s.addEventListener("input",renderTable);})();
+
 function bootstrapDashboardV21(){
   try{
     renderCards();
