@@ -46,6 +46,7 @@ const isPct = v => String(v || "").includes("%");
 const COMPOSITE = /^R\s*([\d.]+)\s*\/\s*M\s*([\d.]+)$/;
 const show = v => { const m = String(v || "").match(COMPOSITE); return m ? esc(m[1] + " / " + m[2]) : esc(v); };
 const showNote = v => COMPOSITE.test(String(v || "")) ? `<div class="tiny muted">Reading / Math</div>` : "";
+const parts = v => { const c = String(v || "").match(COMPOSITE); if (c) return [{ label: "Reading", v: +c[1] }, { label: "Math", v: +c[2] }]; const n = num(v); return n === null ? null : [{ label: "", v: n }]; };
 const slug = s => String(s).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const fmtDiff = (d, pct) => (d > 0 ? "+" : d < 0 ? "−" : "") + Math.abs(d).toFixed(1) + (pct ? " pts" : "");
 
@@ -86,7 +87,7 @@ const measure = id => D.measures.find(m => m.MeasureID === id);
 const domainOf = name => DOMAINS.find(d => d.name === name);
 const districtRows = id => D.results.filter(r => r.MeasureID === id && !r.School && !r.Subgroup).sort((a, b) => +a.Year - +b.Year);
 const subgroupRows = (id, yr) => D.results.filter(r => r.MeasureID === id && r.Subgroup && !r.School && (yr == null || +r.Year === +yr));
-const numericRows = id => districtRows(id).filter(r => num(r.Value) !== null);
+const numericRows = id => districtRows(id).filter(r => parts(r.Value) !== null);
 const latest = id => { const r = districtRows(id); return r[r.length - 1]; };
 
 function yearLabel(id, y) {
@@ -97,56 +98,63 @@ function yearLabel(id, y) {
 }
 
 /* direction of change, judged against the measure's "higher/lower is better" */
-function change(m, from, to) {
+function changeParts(m, from, to) {
   if (!from || !to) return null;
-  const a = num(from.Value), b = num(to.Value);
-  if (a === null || b === null) return null;
-  const d = b - a;
-  const good = d === 0 ? null : (m.Direction === "lower" ? d < 0 : d > 0);
-  return { d, good, pct: isPct(to.Value), from };
+  const a = parts(from.Value), b = parts(to.Value);
+  if (!a || !b || a.length !== b.length) return null;
+  return b.map((p, i) => { const d = p.v - a[i].v; return { label: p.label, d, good: d === 0 ? null : (m.Direction === "lower" ? d < 0 : d > 0), pct: isPct(to.Value) }; });
 }
+function change(m, from, to) { const c = changeParts(m, from, to); return c ? c[0] : null; }
 function changeHTML(m, ch, vsText) {
   if (!ch) return "";
-  if (ch.d === 0) return `<div class="change muted">No change ${vsText}</div>`;
-  const cls = ch.good ? "up-good" : "up-bad";
-  const arrow = ch.d > 0 ? "↑" : "↓";
-  return `<div class="change ${cls}">${arrow} ${fmtDiff(ch.d, ch.pct)} <span class="muted">${vsText}</span></div>`;
+  const list = Array.isArray(ch) ? ch : [ch];
+  const seg = p => p.d === 0 ? `<span class="muted">${p.label ? p.label + " " : ""}no change</span>`
+    : `<span class="${p.good ? "up-good" : "up-bad"}">${p.label ? p.label + " " : ""}${p.d > 0 ? "↑" : "↓"} ${fmtDiff(p.d, p.pct)}</span>`;
+  return `<div class="change">${list.map(seg).join(" · ")} <span class="muted">${vsText}</span></div>`;
 }
 function sinceFirst(m) {
   const rows = numericRows(m.MeasureID);
   if (rows.length < 2) return "";
-  const ch = change(m, rows[0], rows[rows.length - 1]);
-  return changeHTML(m, ch, "since " + yearLabel(m.MeasureID, rows[0].Year));
+  return changeHTML(m, changeParts(m, rows[0], rows[rows.length - 1]), "since " + yearLabel(m.MeasureID, rows[0].Year));
 }
 function vsPrior(m) {
   const rows = numericRows(m.MeasureID);
   if (rows.length < 2) return "";
-  const ch = change(m, rows[rows.length - 2], rows[rows.length - 1]);
-  return changeHTML(m, ch, "vs. " + yearLabel(m.MeasureID, rows[rows.length - 2].Year));
+  return changeHTML(m, changeParts(m, rows[rows.length - 2], rows[rows.length - 1]), "vs. " + yearLabel(m.MeasureID, rows[rows.length - 2].Year));
+}
+/* first-to-latest verdict: "improved", "declined", "mixed" or "same" */
+function overall(m) {
+  const rows = numericRows(m.MeasureID); if (rows.length < 2) return null;
+  const c = changeParts(m, rows[0], rows[rows.length - 1]); if (!c) return null;
+  const g = c.map(p => p.good);
+  return g.every(x => x === true) ? "improved" : g.every(x => x === false) ? "declined" : g.every(x => x === null) ? "same" : "mixed";
 }
 function statusChip(m) { return `<span class="chip ${STATUS_STYLE[m.DataStatus] || ""}">${esc(m.DataStatus)}</span>`; }
 
 /* ---------- charts ---------- */
+const SERIES_COLORS = ["#1f5a94", "#e46f17"];
 function sparkline(m) {
   const rows = numericRows(m.MeasureID);
   if (rows.length < 2) return "";
-  const vals = rows.map(r => num(r.Value)), min = Math.min(...vals), max = Math.max(...vals), span = (max - min) || 1;
-  const W = 120, H = 38, P = 4;
-  const pts = vals.map((v, i) => [P + i * (W - 2 * P) / (vals.length - 1), H - P - (v - min) / span * (H - 2 * P)]);
-  const ch = change(m, rows[0], rows[rows.length - 1]);
-  const color = !ch || ch.good === null ? "#5b6672" : ch.good ? "#2b7a57" : "#b0452c";
-  const last = pts[pts.length - 1];
+  const P = rows.map(r => parts(r.Value)), all = P.flat().map(p => p.v);
+  const min = Math.min(...all), max = Math.max(...all), span = (max - min) || 1;
+  const W = 120, H = 38, pad = 4;
+  const xy = (v, i) => [pad + i * (W - 2 * pad) / (rows.length - 1), H - pad - (v - min) / span * (H - 2 * pad)];
+  const multi = P[0].length > 1;
+  const v = overall(m);
+  const single = v === "improved" ? "#2b7a57" : v === "declined" ? "#b0452c" : "#5b6672";
   return `<svg class="spark" viewBox="0 0 ${W} ${H}" role="img" aria-label="Trend: ${rows.map(r => esc(r.Value)).join(", ")}">
-    <polyline class="line" stroke="${color}" points="${pts.map(p => p.join(",")).join(" ")}"/>
-    <circle cx="${last[0]}" cy="${last[1]}" r="3.5" fill="${color}"/></svg>`;
+    ${P[0].map((_, k) => { const pts = P.map((p, i) => xy(p[k].v, i)); const last = pts[pts.length - 1]; const c = multi ? SERIES_COLORS[k] : single;
+      return `<polyline class="line" stroke="${c}" points="${pts.map(p => p.join(",")).join(" ")}"/><circle cx="${last[0]}" cy="${last[1]}" r="3.5" fill="${c}"/>`; }).join("")}</svg>`;
 }
 
 function trendChart(m) {
   const rows = numericRows(m.MeasureID);
-  const vals = rows.map(r => num(r.Value));
+  const P = rows.map(r => parts(r.Value)), all = P.flat().map(p => p.v);
+  const multi = P[0].length > 1;
   const narrow = window.innerWidth < 640;
-  const W = narrow ? 420 : 960, H = narrow ? 260 : 280, L = narrow ? 44 : 56, R = narrow ? 40 : 64, T = 34, B = 42;
-  let min = Math.min(...vals), max = Math.max(...vals);
+  const W = narrow ? 420 : 960, H = narrow ? 260 : 280, L = narrow ? 44 : 56, R = narrow ? 40 : 64, T = multi ? 46 : 34, B = 42;
+  let min = Math.min(...all), max = Math.max(...all);
   const pad = Math.max((max - min) * 0.35, Math.abs(max) * 0.05, 1);
   min = Math.max(0, min - pad); max = max + pad;
   const step = niceStep((max - min) / 4);
@@ -158,13 +166,17 @@ function trendChart(m) {
   for (let g = min; g <= max + 1e-9; g += step) {
     grid += `<line x1="${L}" x2="${W - R}" y1="${y(g)}" y2="${y(g)}"/><text x="${L - 8}" y="${y(g) + 4}" text-anchor="end">${+g.toFixed(1)}${pct ? "%" : ""}</text>`;
   }
-  const pts = rows.map((r, i) => [x(i), y(vals[i])]);
+  const lines = P[0].map((_, k) => {
+    const c = SERIES_COLORS[k], pts = P.map((p, i) => [x(i), y(p[k].v)]);
+    return `<polyline fill="none" stroke="${c}" stroke-width="3" points="${pts.map(p => p.join(",")).join(" ")}"/>` +
+      pts.map((p, i) => `<circle cx="${p[0]}" cy="${p[1]}" r="5" fill="#fff" stroke="${c}" stroke-width="3"/>
+      <text class="val" x="${p[0]}" y="${!multi || P[i][k].v > P[i][1 - k].v || (P[i][k].v === P[i][1 - k].v && k === 0) ? p[1] - 12 : p[1] + 22}" text-anchor="middle">${multi ? P[i][k].v : esc(rows[i].Value)}</text>`).join("");
+  }).join("");
+  const legend = multi ? P[0].map((p, k) => `<rect x="${L + k * 110}" y="8" width="14" height="4" fill="${SERIES_COLORS[k]}"/><text x="${L + 20 + k * 110}" y="14">${p.label}</text>`).join("") : "";
+  const xl = i => { const t = yearLabel(m.MeasureID, rows[i].Year); return narrow ? String(t).replace(/^(Class of|Spring) /, "") : t; };
   return `<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(m.Measure)} by year: ${rows.map(r => yearLabel(m.MeasureID, r.Year) + " " + r.Value).join(", ")}">
-    <g class="grid">${grid}</g>
-    <polyline fill="none" stroke="#1f5a94" stroke-width="3" points="${pts.map(p => p.join(",")).join(" ")}"/>
-    ${pts.map((p, i) => `<circle cx="${p[0]}" cy="${p[1]}" r="5" fill="#fff" stroke="#1f5a94" stroke-width="3"/>
-      <text class="val" x="${p[0]}" y="${p[1] - 12}" text-anchor="middle">${esc(rows[i].Value)}</text>
-      <text x="${p[0]}" y="${H - 12}" text-anchor="middle">${esc(narrow ? String(yearLabel(m.MeasureID, rows[i].Year)).replace(/^(Class of|Spring) /, "") : yearLabel(m.MeasureID, rows[i].Year))}</text>`).join("")}
+    <g class="grid">${grid}</g>${legend}${lines}
+    ${rows.map((r, i) => `<text x="${x(i)}" y="${H - 12}" text-anchor="middle">${esc(xl(i))}</text>`).join("")}
   </svg>`;
 }
 function niceStep(raw) {
@@ -176,24 +188,26 @@ function niceStep(raw) {
 function subgroupBars(m, yr) {
   const groups = subgroupRows(m.MeasureID, yr);
   const dist = D.results.find(r => r.MeasureID === m.MeasureID && +r.Year === +yr && !r.School && !r.Subgroup);
-  const dv = dist ? num(dist.Value) : null;
-  const vals = groups.map(g => num(g.Value));
-  if (vals.some(v => v === null)) {
-    return `<div class="table-wrap"><table><thead><tr><th>Group</th><th>Result</th></tr></thead><tbody>${groups.map(g => `<tr><td>${esc(g.Subgroup)}</td><td><b>${esc(g.Value)}</b></td></tr>`).join("")}</tbody></table></div>
-      ${dist ? `<p class="small muted">District: ${esc(dist.Value)}</p>` : ""}`;
+  if (groups.some(g => COMPOSITE.test(g.Value))) {
+    return `<div class="table-wrap"><table><thead><tr><th>Group</th><th>Reading</th><th>Math</th></tr></thead><tbody>
+      ${dist ? `<tr><td><b>District</b></td>${parts(dist.Value).map(p => `<td><b>${p.v}</b></td>`).join("")}</tr>` : ""}
+      ${groups.map(g => { const p = parts(g.Value); return `<tr><td>${esc(g.Subgroup)}</td>${p ? p.map(x => `<td>${x.v}</td>`).join("") : `<td colspan="2">${esc(g.Value)}</td>`}</tr>`; }).join("")}</tbody></table></div>`;
   }
-  const scale = Math.max(...vals, dv || 0) * 1.05 || 1;
-  const pct = isPct(groups[0].Value);
-  const rows = groups.map((g, i) => ({ g, v: vals[i] })).sort((a, b) => b.v - a.v);
-  return `<div class="bars">${rows.map(({ g, v }) => {
+  const dv = dist ? num(dist.Value) : null;
+  const numeric = groups.filter(g => num(g.Value) !== null).map(g => ({ g, v: num(g.Value) })).sort((a, b) => b.v - a.v);
+  const other = groups.filter(g => num(g.Value) === null);
+  if (!numeric.length) return `<p class="muted">Group results are suppressed for this year.</p>`;
+  const scale = Math.max(...numeric.map(x => x.v), dv || 0) * 1.05 || 1;
+  const pct = isPct(numeric[0].g.Value);
+  const dl = dv !== null ? `<div class="dline" style="left:${(dv / scale * 100).toFixed(1)}%"></div>` : "";
+  return `<div class="bars">${numeric.map(({ g, v }) => {
     const below = dv !== null && (m.Direction === "lower" ? v > dv : v < dv);
     return `<div class="bar"><div>${esc(g.Subgroup)}</div>
-      <div class="track"><div class="fill ${below ? "low" : ""}" style="width:${(v / scale * 100).toFixed(1)}%"></div>
-      ${dv !== null ? `<div class="dline" style="left:${(dv / scale * 100).toFixed(1)}%"></div>` : ""}</div>
+      <div class="track"><div class="fill ${below ? "low" : ""}" style="width:${(v / scale * 100).toFixed(1)}%"></div>${dl}</div>
       <div class="num">${esc(g.Value)}</div>
       <div class="diff">${dv !== null ? fmtDiff(v - dv, pct) : ""}</div></div>`;
-  }).join("")}</div>
-  ${dv !== null ? `<div class="legend"><i></i>District result: ${esc(dist.Value)}. Orange bars are below the district result.</div>` : ""}`;
+  }).join("")}${other.map(g => `<div class="bar"><div>${esc(g.Subgroup)}</div><div class="track">${dl}</div><div class="num muted">${esc(g.Value)}</div><div class="diff"></div></div>`).join("")}</div>
+  ${dv !== null ? `<div class="legend"><i></i>District result: ${esc(dist.Value)}. Orange bars are ${m.Direction === "lower" ? "higher (worse) than" : "below"} the district result.</div>` : ""}`;
 }
 
 /* the scholar group furthest behind the district result, latest year with group data (percentage measures) */
@@ -245,14 +259,25 @@ function pageHome() {
   <div class="section callouts">
     ${gap ? `<div class="callout"><div class="section-label">Largest gap</div>
       <h3>${esc(gap.m.Measure)}, ${esc(yearLabel(gap.m.MeasureID, gap.yr))}</h3>
-      <p>${esc(gap.g.Subgroup)} scholars: <b>${esc(gap.g.Value)}</b>, ${gap.behind.toFixed(0)} points behind the district result of ${esc(gap.dist.Value)}.</p>
+      <p>${esc(gap.g.Subgroup)}: <b>${esc(gap.g.Value)}</b>, ${gap.behind.toFixed(0)} points behind the district result of ${esc(gap.dist.Value)}.</p>
       <a class="link-arrow" href="#equity/${gap.m.MeasureID}">See all groups →</a></div>` : ""}
-    <div class="callout navy"><div class="section-label">Data to add</div>
+    ${fresh.length ? `<div class="callout navy"><div class="section-label">Data to add</div>
       <h3>${fresh.length} measure${fresh.length === 1 ? " has" : "s have"} newer state results not loaded yet</h3>
       <p>${fresh.map(m => esc(m.Measure)).join(", ")}.</p>
-      <a class="link-arrow" href="#data">See data status →</a></div>
+      <a class="link-arrow" href="#data">See data status →</a></div>` : progressCallout()}
   </div>
   <p class="note">Results are described without On Track / Off Track labels until the Board adopts targets for each measure. Differences between groups describe outcomes; they don't explain causes.</p>`;
+}
+
+function progressCallout() {
+  const by = { improved: [], declined: [], mixed: [] };
+  D.measures.forEach(m => { const v = overall(m); if (by[v]) by[v].push(m); });
+  const link = m => `<a href="#measure/${m.MeasureID}">${esc(m.Measure)}</a>`;
+  return `<div class="callout navy"><div class="section-label">Since 2022</div>
+    <h3>${by.improved.length} of ${D.measures.length} measures improved</h3>
+    ${by.declined.length ? `<p><b>Moved the wrong way:</b> ${by.declined.map(link).join(", ")}.</p>` : ""}
+    ${by.mixed.length ? `<p class="small muted">Mixed: ${by.mixed.map(link).join(", ")}.</p>` : ""}
+    <a class="link-arrow" href="#ends">See all measures →</a></div>`;
 }
 
 function pageEnds(focus) {
@@ -437,9 +462,10 @@ function pageData() {
     <div class="card"><h3>Reading these numbers</h3><ul class="small" style="padding-left:18px;margin:6px 0 0">
       <li>Graduation inclusion rules changed with the Class of 2023. Earlier published rates weren't recalculated.</li>
       <li>The SAT moved to a digital format in Spring 2024. Compare across that year with care.</li>
-      <li>Chronic absence for 2022–23 is a rounded GRPS CNA value. From 2023–24 on, values come from MI School Data.</li>
-      <li>Suspension rates are calculated from GRPS CNA counts and are still being validated.</li>
-      <li>Postsecondary enrollment uses "within six months"; the adopted ENDS wording is "fall after graduation."</li>
+      <li>District and group results come from the GRPS ENDS Data Dive presented to the Board of Education on November 6, 2026 (Office of Assessment and Evaluation).</li>
+      <li>"2026" means the 2025–26 school year, Spring 2026 testing, or the Class of 2026.</li>
+      <li>Suspension results by group aren't shown: the Board packet's group figures appear to be shares of all scholars, not group rates.</li>
+      <li>Postsecondary enrollment uses "within six months"; the adopted ENDS wording is "fall after graduation." Graduation and postsecondary results for the Class of 2026 aren't out yet.</li>
       <li>Results for groups with fewer than 10 scholars are suppressed.</li>
       <li>No value is estimated or carried forward. Missing results stay missing.</li>
     </ul></div>

@@ -11,7 +11,9 @@ Rebuild of the page and how it gets its data.
 - Phone layout: all five menu items fit on screen.
 - White masthead, so the logo no longer sits in a white box on blue.
 - One version number and data-as-of date, both set in `data/settings.csv`.
-- Data refresh: chronic absence 2023–24 and 2024–25 corrected to MI School Data values (41.2% and 41.4%, previously 42% for both); Grade 3 reading for Spring 2025 (19.6%) and Spring 2026 (20.1%) added.
+- Data refresh: all 19 measures now show 2022–2026 district results and scholar-group results from the GRPS ENDS Data Dive presented to the Board on November 6, 2026 (Office of Assessment and Evaluation). This includes 2025–26 chronic absence (40.4%), and all 19 measures now have results (9 before).
+- Held back until confirmed: suspension results by group (the packet's figures look like shares of all scholars, not group rates) and the 2023 SAT EBRW result for White scholars (likely an entry error). Belonging for 2022 and 2023 differs between the Board slides and the packet table and is flagged "Being checked."
+- NWEA MAP Growth charts show Reading and Math as separate lines.
 - School applicability fixed: elementary schools no longer list SAT, AP or postsecondary measures; high schools no longer list grades 3–7 M-STEP; Grade 3 and Grade 8 measures follow the grades each school serves.
 - Removed the CSV upload tools (they depended on a missing function and saved data only in one browser). Data updates now go through the `data/` files.
 - Duplicate root-level CSVs removed; source and audit files moved to `reference/`.
