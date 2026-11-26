@@ -10,3 +10,8 @@ MeasureID,Year,Value,Dashboard Use,Source Type,Source,Confidence,Caveat
 3.1 context,2024,87.93% attendance,Context,MDE,State Board presentation,High,Not chronic-absence percentage
 3.1 context,2023,"6,125 chronic absent",Context,MDE,State Board presentation,High,"Count, not percentage"
 3.1 context,2024,"6,094 chronic absent",Context,MDE,State Board presentation,High,"Count, not percentage"
+3.1,2024,41.2%,KPI,MDE / MI School Data,"Chalkbeat Detroit, Sept. 13, 2024, citing MI School Data",High,2023-24 rate; replaces rounded CNA value 42% (Nov. 2026 refresh)
+3.1,2025,41.4%,KPI,MDE / MI School Data,"Bridge Michigan, Sept. 2025, citing MI School Data",High,2024-25 rate; replaces rounded CNA value 42% (Nov. 2026 refresh)
+2.4,2025,19.6%,KPI,MDE / M-STEP,"Michigan Public, Sept. 4, 2026",High,Spring 2025 Grade 3 ELA proficiency
+2.4,2026,20.1%,KPI,MDE / M-STEP,"Michigan Public, Sept. 4, 2026",High,Spring 2026 Grade 3 ELA proficiency
+All measures,2022-2026,See data/results.csv,KPI and groups,GRPS Office of Assessment and Evaluation,"GRPS ENDS Data Dive presented to the Board of Education, Nov. 6, 2026 (presentation v11.9.2026; packet v3, 11.9.2026)",High,"Nov. 2026 refresh replaced earlier values. Held back: 3.2 group values (appear to be shares, not rates) and 1.3a White 2023 (likely entry error). 3.3a 2022-23 differs between slides and packet."
