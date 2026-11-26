@@ -464,6 +464,7 @@ function pageData() {
       <li>The SAT moved to a digital format in Spring 2024. Compare across that year with care.</li>
       <li>District and group results come from the GRPS ENDS Data Dive presented to the Board of Education on November 6, 2026 (Office of Assessment and Evaluation).</li>
       <li>"2026" means the 2025–26 school year, Spring 2026 testing, or the Class of 2026.</li>
+      <li>Belonging (MI Student Voice) 2021–22 and 2022–23 use the Board slide values. Group results for 2022–23 are not shown because the packet table did not match the slides.</li>
       <li>Suspension results by group aren't shown: the Board packet's group figures appear to be shares of all scholars, not group rates.</li>
       <li>Postsecondary enrollment uses "within six months"; the adopted ENDS wording is "fall after graduation." Graduation and postsecondary results for the Class of 2026 aren't out yet.</li>
       <li>Results for groups with fewer than 10 scholars are suppressed.</li>
